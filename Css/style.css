@@ -1,0 +1,54 @@
+
+
+body{
+    background-image: url(../Imagenes/perros_2.jpg) ;
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+    background-color: rgb(42, 75, 9);
+}
+
+#menuPrincipal {
+    width: 20%;
+    border-width: 1px;
+    border-color: crimson;
+    border-style: groove; 
+    border-radius: 2%;
+    float: left;
+    background-color: black  !important;
+    color: aliceblue;
+}
+
+#contenido {
+    width: 75%;
+    margin-left: 5px;
+    padding: 5px 20px;
+    border-width: 3px;
+    border-color: crimson;
+    border-style: ridge;
+    border-radius: 2%;
+    background-color: black  !important;
+    color: aliceblue;
+    float: left;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#imagenTitulo{
+    width: 100%;
+    height: 10%;
+}
+
+#bordeCabeza {
+    border-width: 2px;
+    border-color: crimson;
+    border-style: groove; 
+    border-radius: 2%;
+
+}
+
+footer{
+    clear:both;
+}
