@@ -24,7 +24,7 @@ body{
     padding: 5px 20px;
     border-width: 3px;
     border-color: crimson;
-    border-style: ridge;
+    border-style: groove;
     border-radius: 2%;
     background-color: black  !important;
     color: aliceblue;
