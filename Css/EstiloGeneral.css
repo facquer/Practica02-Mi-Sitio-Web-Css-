@@ -29,3 +29,20 @@ footer{
     padding-right: 6%
 }
 
+#imagen400{
+    width: 400px;
+    height: 300px;
+    float: right;
+    padding-right: 3%;
+    padding-top: 1%;
+}
+
+#texto70{
+    width: 70%;
+    float: left;
+}
+
+section{
+    padding: 5px;
+}
+
