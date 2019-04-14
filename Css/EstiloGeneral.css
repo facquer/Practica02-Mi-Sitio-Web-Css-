@@ -1,0 +1,31 @@
+#imagenTabla{
+    width: 60%;
+    height:100%;
+    float: left;
+}
+
+#imagenLogo{
+    width: 100%;
+    height: 10%;
+}
+#imagenMenu{
+    width: 100%;
+    height: 60px;
+}
+
+footer{
+    clear:both;
+}
+
+#texto80{
+    width: 80%;
+    float: left;
+}
+
+#imagen200{
+    width: 200px;
+    height: 200px;
+    float: right;
+    padding-right: 6%
+}
+
