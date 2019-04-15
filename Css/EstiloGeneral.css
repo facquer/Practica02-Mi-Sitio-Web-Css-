@@ -15,7 +15,7 @@ img{
     width: 100%;
     height: 10%;
 }
-#imagenMenu{
+.imagenMenu{
     width: 100%;
     height: 60px;
 }
@@ -24,7 +24,7 @@ footer{
     clear:both;
 }
 
-#texto80{
+.texto80{
     width: 80%;
     float: left;
 }
@@ -58,7 +58,7 @@ footer{
     padding-top: 1%;
 }
 
-#texto70{
+.texto70{
     width: 70%;
     float: left;
 }
@@ -72,7 +72,7 @@ section{
     height: 300px;
 }
 
-#imagen400Fija{
+.imagen400Fija{
     width: 400px;
     height: 400px;
 }
@@ -111,7 +111,7 @@ nav{
     border-color: #EEEEEE;
 }
 
-#colorBlanco{
+.colorBlanco{
     color:#EEEEEE;
 }
 
