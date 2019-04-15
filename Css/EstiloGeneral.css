@@ -1,3 +1,10 @@
+*{
+    border-color: #00ADB5;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
 #imagenTabla{
     width: 60%;
     height:100%;
@@ -70,15 +77,112 @@ section{
     height: 400px;
 }
 
-#seccionBorde{
+section.borde{
     width: 11.5%;
     border-width: 4px;
     border-style: groove; 
     border-radius: 2%;
     float: left;
+    background-color: #393E46;
 }
 
 table{
     margin: 2px;
+    border-color: rgb(0, 0, 0);
 }
+
+body{
+    background-color: #222831;  
+}
+
+body nav{
+    background-color: #00ADB5;
+}
+
+body section{
+    background-color: #EEEEEE;
+}
+
+strong.color{
+    color:#00ADB5;
+}
+
+nav{
+    border-color: #EEEEEE;
+}
+
+#colorBlanco{
+    color:#EEEEEE;
+}
+
+h2{
+    color:#EEEEEE;
+}
+
+h1{
+    color: #00ADB5;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+strong{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li:hover{
+    color:#EEEEEE;
+}
+
+nav ul li a:visited{
+    color:#222831;
+}
+
+nav ul li a {
+	color: #222831;
+	text-decoration: none;
+	display: block;
+	margin-bottom: 5px;
+}
+
+footer h6 a:hover{
+    color:#00ADB5;  
+}
+footer h6 a:visited{
+    color:#EEEEEE;  
+}
+
+footer h6 a{
+    color: #EEEEEE;
+}
+nav ul li {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 0.8em;
+}
+
+nav ul li a:focus {
+	outline: thin dotted;
+}
+
+h3{
+    color: #00ADB5;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
+    color: #00ADB5;
+    font-size: 15px;
+    font-style: oblique;
+}
+
+caption{
+    color: #00ADB5;
+    font-style: oblique;
+}
+
 
